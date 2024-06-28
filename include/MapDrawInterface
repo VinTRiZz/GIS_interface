@@ -1,0 +1,9 @@
+#ifndef MAP_DRAW_INTERFACE_H
+#define MAP_DRAW_INTERFACE_H
+
+#include "../src/mapdrawinterface.h"
+#include "../src/mapdrawconfigurehelper.h"
+#include "../src/mapdrawinterface_defines.h"
+#include "../src/basicutils.h"
+
+#endif // MAP_DRAW_INTERFACE_H
